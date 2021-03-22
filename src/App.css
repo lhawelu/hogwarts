@@ -12,6 +12,10 @@
   transform: scale(1.5);
 }
 
+.filterSort{
+  padding-bottom: 10px;
+}
+
 .navWrapper {
   margin-bottom: 2%;
 }
